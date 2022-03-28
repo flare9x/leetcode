@@ -1,5 +1,10 @@
 /* 1491. Average Salary Excluding the Minimum and Maximum Salary */
 
+/* 43 / 43 test cases passed.
+Status: Accepted
+Runtime: 0 ms
+Memory Usage: 7.2 MB */ 
+
 class Solution {
 public:
     double average(vector<int>& salary) {
