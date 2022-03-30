@@ -1,8 +1,13 @@
 /* 1281. Subtract the Product and Sum of Digits of an Integer 
 
-Given an integer number n, return the difference between the product of its digits and the sum of its digits.*/ 
+Given an integer number n, return the difference between the product of its digits and the sum of its digits.
 
-/* Success
+Constraints:
+
+1 <= n <= 10^5 */ 
+
+/* 
+Success
 Details 
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Subtract the Product and Sum of Digits of an Integer.
 Memory Usage: 6 MB, less than 26.91% of C++ online submissions for Subtract the Product and Sum of Digits of an Integer. */
