@@ -1,5 +1,12 @@
-/* 1523. Count Odd Numbers in an Interval Range */
-/*84 / 84 test cases passed.
+/* 1523. Count Odd Numbers in an Interval Range 
+
+Given two non-negative integers low and high. Return the count of odd numbers between low and high (inclusive).
+
+Constraints:
+
+0 <= low <= high <= 10^9 */
+
+/* 84 / 84 test cases passed.
 Status: Accepted
 Runtime: 0 ms
 Memory Usage: 6 MB
