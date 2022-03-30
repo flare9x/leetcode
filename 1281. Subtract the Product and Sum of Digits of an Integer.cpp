@@ -10,7 +10,13 @@ Constraints:
 Success
 Details 
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Subtract the Product and Sum of Digits of an Integer.
-Memory Usage: 6 MB, less than 26.91% of C++ online submissions for Subtract the Product and Sum of Digits of an Integer. */
+Memory Usage: 6 MB, less than 26.91% of C++ online submissions for Subtract the Product and Sum of Digits of an Integer. 
+
+123 / 123 test cases passed.
+Status: Accepted
+Runtime: 0 ms
+Memory Usage: 6 MB
+Submitted: 21 minutes ago */
 
 class Solution {
 public:
