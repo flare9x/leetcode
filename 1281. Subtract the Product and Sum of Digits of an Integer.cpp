@@ -13,8 +13,7 @@ public:
     int product = 1; /* initialize the product with 1 vs 0 (for obvious reasons!) */
     int subtractProductAndSum(int n) {
         int number = n;
-        while (number > 0)
-        {
+        while (number > 0) {
             int digit = number % 10; /* modulo (remainder) */
             number /= 10; /* division assignment */
             sum = digit+sum; /* sum each */
