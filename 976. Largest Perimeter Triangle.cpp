@@ -16,7 +16,7 @@ If it is impossible to form any triangle of a non-zero area, return 0.
             If only 1x is not true (< or <=) to the third then 3 sides, their length can not make a triangle.
             Step 4 - Check area using Herons Formula 
             Step 5 - If triangle condition satisfied and area is non zero break the reverse loop found match 
-            and no need to continue looping over the full awway */ 
+            and no need to continue looping over the full array */ 
 
 class Solution {
 public:
