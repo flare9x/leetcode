@@ -18,7 +18,7 @@ Submitted: 0 minutes ago
 Success
 Details 
 Runtime: 8 ms, faster than 27.28% of C++ online submissions for Can Make Arithmetic Progression From Sequence.
-Memory Usage: 9.2 MB, less than 10.92% of C++ online submissions for Can Make Arithmetic Progression From Sequence.
+Memory Usage: 9.2 MB, less than 10.92% of C++ online submissions for Can Make Arithmetic Progression From Sequence. */
 
 class Solution {
 public:
